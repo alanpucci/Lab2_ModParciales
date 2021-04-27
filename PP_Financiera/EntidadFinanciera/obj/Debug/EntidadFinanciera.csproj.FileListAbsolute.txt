@@ -1,0 +1,6 @@
+C:\Users\alane\source\repos\Modelos parcial\PP_Financiera\EntidadFinanciera\bin\Debug\EntidadFinanciera.dll
+C:\Users\alane\source\repos\Modelos parcial\PP_Financiera\EntidadFinanciera\bin\Debug\EntidadFinanciera.pdb
+C:\Users\alane\source\repos\Modelos parcial\PP_Financiera\EntidadFinanciera\obj\Debug\EntidadFinanciera.csprojAssemblyReference.cache
+C:\Users\alane\source\repos\Modelos parcial\PP_Financiera\EntidadFinanciera\obj\Debug\EntidadFinanciera.csproj.CoreCompileInputs.cache
+C:\Users\alane\source\repos\Modelos parcial\PP_Financiera\EntidadFinanciera\obj\Debug\EntidadFinanciera.dll
+C:\Users\alane\source\repos\Modelos parcial\PP_Financiera\EntidadFinanciera\obj\Debug\EntidadFinanciera.pdb

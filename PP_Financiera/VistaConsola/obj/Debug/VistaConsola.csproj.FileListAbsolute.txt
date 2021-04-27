@@ -1,0 +1,10 @@
+C:\Users\alane\source\repos\Modelos parcial\PP_Financiera\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\alane\source\repos\Modelos parcial\PP_Financiera\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\alane\source\repos\Modelos parcial\PP_Financiera\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\alane\source\repos\Modelos parcial\PP_Financiera\VistaConsola\bin\Debug\EntidadFinanciera.dll
+C:\Users\alane\source\repos\Modelos parcial\PP_Financiera\VistaConsola\bin\Debug\EntidadFinanciera.pdb
+C:\Users\alane\source\repos\Modelos parcial\PP_Financiera\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\alane\source\repos\Modelos parcial\PP_Financiera\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\alane\source\repos\Modelos parcial\PP_Financiera\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\alane\source\repos\Modelos parcial\PP_Financiera\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\alane\source\repos\Modelos parcial\PP_Financiera\VistaConsola\obj\Debug\VistaConsola.pdb
