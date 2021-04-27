@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{05EF5135-8A77-4768-BFE6-B7F70F1AAFEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistaForm", "VistaForm\VistaForm.csproj", "{B3B4DA13-7910-4676-8EB8-3C5C5AB29773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistaConsola", "VistaConsola\VistaConsola.csproj", "{CF31FB5E-A3F2-44AE-8FCF-7D15FF1EBCB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05EF5135-8A77-4768-BFE6-B7F70F1AAFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05EF5135-8A77-4768-BFE6-B7F70F1AAFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05EF5135-8A77-4768-BFE6-B7F70F1AAFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05EF5135-8A77-4768-BFE6-B7F70F1AAFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B4DA13-7910-4676-8EB8-3C5C5AB29773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B4DA13-7910-4676-8EB8-3C5C5AB29773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B4DA13-7910-4676-8EB8-3C5C5AB29773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B4DA13-7910-4676-8EB8-3C5C5AB29773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF31FB5E-A3F2-44AE-8FCF-7D15FF1EBCB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF31FB5E-A3F2-44AE-8FCF-7D15FF1EBCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF31FB5E-A3F2-44AE-8FCF-7D15FF1EBCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF31FB5E-A3F2-44AE-8FCF-7D15FF1EBCB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23C2E53D-273B-40C4-87A8-F0A97E000686}
+	EndGlobalSection
+EndGlobal

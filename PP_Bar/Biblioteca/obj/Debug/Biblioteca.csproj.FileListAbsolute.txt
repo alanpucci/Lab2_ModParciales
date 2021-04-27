@@ -1,0 +1,5 @@
+C:\Users\alane\source\repos\Modelos parcial\PP_Bar\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\alane\source\repos\Modelos parcial\PP_Bar\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\alane\source\repos\Modelos parcial\PP_Bar\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\alane\source\repos\Modelos parcial\PP_Bar\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\alane\source\repos\Modelos parcial\PP_Bar\Biblioteca\obj\Debug\Biblioteca.pdb

@@ -1,0 +1,13 @@
+C:\Users\alane\source\repos\Repaso-Sabado\Repaso\NewForm\bin\Debug\NewForm.exe.config
+C:\Users\alane\source\repos\Repaso-Sabado\Repaso\NewForm\bin\Debug\NewForm.exe
+C:\Users\alane\source\repos\Repaso-Sabado\Repaso\NewForm\bin\Debug\NewForm.pdb
+C:\Users\alane\source\repos\Repaso-Sabado\Repaso\NewForm\bin\Debug\Biblioteca.dll
+C:\Users\alane\source\repos\Repaso-Sabado\Repaso\NewForm\bin\Debug\Biblioteca.pdb
+C:\Users\alane\source\repos\Repaso-Sabado\Repaso\NewForm\obj\Debug\NewForm.csprojAssemblyReference.cache
+C:\Users\alane\source\repos\Repaso-Sabado\Repaso\NewForm\obj\Debug\NewForm.Form1.resources
+C:\Users\alane\source\repos\Repaso-Sabado\Repaso\NewForm\obj\Debug\NewForm.Properties.Resources.resources
+C:\Users\alane\source\repos\Repaso-Sabado\Repaso\NewForm\obj\Debug\NewForm.csproj.GenerateResource.cache
+C:\Users\alane\source\repos\Repaso-Sabado\Repaso\NewForm\obj\Debug\NewForm.csproj.CoreCompileInputs.cache
+C:\Users\alane\source\repos\Repaso-Sabado\Repaso\NewForm\obj\Debug\NewForm.csproj.CopyComplete
+C:\Users\alane\source\repos\Repaso-Sabado\Repaso\NewForm\obj\Debug\NewForm.exe
+C:\Users\alane\source\repos\Repaso-Sabado\Repaso\NewForm\obj\Debug\NewForm.pdb

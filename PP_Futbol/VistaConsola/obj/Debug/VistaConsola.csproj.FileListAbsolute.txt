@@ -1,0 +1,10 @@
+C:\Users\alane\source\repos\PP_Futbol\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\alane\source\repos\PP_Futbol\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\alane\source\repos\PP_Futbol\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\alane\source\repos\PP_Futbol\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\alane\source\repos\PP_Futbol\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\alane\source\repos\PP_Futbol\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\alane\source\repos\PP_Futbol\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\alane\source\repos\PP_Futbol\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\alane\source\repos\PP_Futbol\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\alane\source\repos\PP_Futbol\VistaConsola\obj\Debug\VistaConsola.pdb

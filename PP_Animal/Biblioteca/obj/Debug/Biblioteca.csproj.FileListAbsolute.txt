@@ -1,0 +1,6 @@
+C:\Users\alane\source\repos\PP_Animal\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\alane\source\repos\PP_Animal\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\alane\source\repos\PP_Animal\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\alane\source\repos\PP_Animal\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\alane\source\repos\PP_Animal\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\alane\source\repos\PP_Animal\Biblioteca\obj\Debug\Biblioteca.pdb
