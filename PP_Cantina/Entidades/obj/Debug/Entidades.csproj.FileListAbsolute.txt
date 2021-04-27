@@ -1,0 +1,5 @@
+C:\Users\alane\Documents\20191010-PrimerParcial-alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\alane\Documents\20191010-PrimerParcial-alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alane\Documents\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alane\Documents\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\alane\Documents\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.pdb
